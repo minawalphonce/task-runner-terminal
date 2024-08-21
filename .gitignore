@@ -1,0 +1,4 @@
+dist/
+.tsup/
+.vscode/
+node_modules/

@@ -1,0 +1,24 @@
+{
+    "file": "src/index.ts",
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": [
+            "es2022"
+        ],
+        "moduleDetection": "force",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "types": [
+            "node"
+        ],
+        "noEmit": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "declaration": true,
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "verbatimModuleSyntax": true,
+        "skipLibCheck": true
+    }
+}
